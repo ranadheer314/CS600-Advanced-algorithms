@@ -1,1 +1,1 @@
-# CS600-Deeplearning
+# CS600-Advanced Algorithms
